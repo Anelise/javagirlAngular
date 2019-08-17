@@ -1,0 +1,6 @@
+*Angular CLI*
+ng new nomeprojeto <>
+ng serve
+ng g component <>
+ng g service <>
+ng build
